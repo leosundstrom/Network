@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "exYVBLY2BIqzoR8BZWxP4r35A74540RLP+wEBBwwXGixaReD5BJxp9Cc5dwA8de3a9iWda9lTnDcHzDs6IbuKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leo.sundstrom\\Documents\\VSCode\\henry\\henry\\henry.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leo.sundstrom\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\leo.sundstrom\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\leo.sundstrom\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\leo.sundstrom\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512",
+    "C:\\Users\\leo.sundstrom\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\leo.sundstrom\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\leo.sundstrom\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\leo.sundstrom\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
